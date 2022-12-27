@@ -7,3 +7,5 @@
 введя команды:
 * git config --global user.email "ВАШ email"
 * git config --global user.name "ВАШЕ Имя"
+
+Теперь можем продолжить работать в git и учится работать с Markdown.
